@@ -1,0 +1,67 @@
+color: null
+fieldLayouts:
+  56446eaf-cf7e-4c5e-85e7-2436f7740caa:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2024-11-05T11:50:31+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            includeInCards: false
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            providesThumbs: false
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: c2658871-c40c-4f72-ab48-733dc26c2937
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-05T12:06:04+00:00'
+            elementCondition: null
+            fieldUid: 98a2c90f-7721-4069-b57a-cc2214fcf063 # Image
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 53eb5acb-8b98-48e5-b0d8-6c193a3358db
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 1c7ddf24-4029-4410-a726-7170c83a508c
+        userCondition: null
+handle: imageBlock
+hasTitleField: true
+icon: image
+name: 'Image Block'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

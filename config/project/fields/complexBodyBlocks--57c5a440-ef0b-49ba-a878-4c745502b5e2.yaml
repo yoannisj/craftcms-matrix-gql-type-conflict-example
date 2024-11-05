@@ -1,0 +1,22 @@
+columnSuffix: null
+handle: complexBodyBlocks
+instructions: null
+name: 'Body Blocks (Complex)'
+searchable: false
+settings:
+  createButtonLabel: null
+  entryTypes:
+    - 09b8703e-f499-4416-ac09-b2a4b5d4b069 # Text Block
+    - a810c55d-b04a-4e78-8d0b-818ad047dc4a # Image Block
+    - 060793ba-3ed7-44b6-8814-b8c9c4dc5e8c # Gallery Block
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: blocks
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,0 +1,43 @@
+dateModified: 1730809936
+email:
+  fromEmail: yoannis@ynm.studio
+  fromName: 'Matrix GraphQL Type Conflict'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  localFiles:
+    hasUrls: true
+    name: 'Local Files'
+    settings:
+      path: '@webroot/files'
+    type: craft\fs\Local
+    url: '@siteUrl/files'
+meta:
+  __names__:
+    00bdcc43-4280-45a1-998e-16ae343518f5: 'Main Sites' # Main Sites
+    09b8703e-f499-4416-ac09-b2a4b5d4b069: 'Text Block' # Text Block
+    57c5a440-ef0b-49ba-a878-4c745502b5e2: 'Body Blocks (Complex)' # Body Blocks (Complex)
+    61ce294d-a1e7-4580-9c3b-7032a07a440b: 'Page (Simple)' # Page (Simple)
+    085fd2df-461b-426e-a64b-7cb8587fd44e: Pages # Pages
+    98a2c90f-7721-4069-b57a-cc2214fcf063: Image # Image
+    252b0908-25ce-4003-96a8-bf6768077739: 'Main Site' # Main Site
+    060793ba-3ed7-44b6-8814-b8c9c4dc5e8c: 'Gallery Block' # Gallery Block
+    a2b9a6c7-5fe7-423a-a453-e26aec74cdba: 'Public Schema' # Public Schema
+    a4fc885f-ca7c-4977-85a6-c25ac6f4a9ad: Textarea # Textarea
+    a8d820dc-4ecc-4480-a5f3-7e9ba7651481: Image(s) # Image(s)
+    a810c55d-b04a-4e78-8d0b-818ad047dc4a: 'Image Block' # Image Block
+    bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98: Images # Images
+    c56e2987-4706-4bba-8e28-b082033c6c16: 'Body Blocks (Simple)' # Body Blocks (Simple)
+    d73e0d1c-209b-456c-aa37-61ab499d20fd: 'Page (Complex)' # Page (Complex)
+system:
+  edition: solo
+  live: true
+  name: 'Matrix GraphQL Type Conflict'
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true

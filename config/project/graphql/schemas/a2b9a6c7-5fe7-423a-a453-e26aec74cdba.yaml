@@ -1,0 +1,27 @@
+isPublic: true
+name: 'Public Schema'
+scope:
+  - 'sites.252b0908-25ce-4003-96a8-bf6768077739:read' # Main Site
+  - 'elements.drafts:read'
+  - 'elements.revisions:read'
+  - 'elements.inactive:read'
+  - 'sections.085fd2df-461b-426e-a64b-7cb8587fd44e:read' # Pages
+  - 'nestedentryfields.57c5a440-ef0b-49ba-a878-4c745502b5e2:read' # Body Blocks (Complex)
+  - 'nestedentryfields.c56e2987-4706-4bba-8e28-b082033c6c16:read' # Body Blocks (Simple)
+  - 'volumes.bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98:read' # Images
+  - 'sections.085fd2df-461b-426e-a64b-7cb8587fd44e:edit' # Pages
+  - 'sections.085fd2df-461b-426e-a64b-7cb8587fd44e:create' # Pages
+  - 'sections.085fd2df-461b-426e-a64b-7cb8587fd44e:save' # Pages
+  - 'sections.085fd2df-461b-426e-a64b-7cb8587fd44e:delete' # Pages
+  - 'nestedentryfields.57c5a440-ef0b-49ba-a878-4c745502b5e2:edit' # Body Blocks (Complex)
+  - 'nestedentryfields.57c5a440-ef0b-49ba-a878-4c745502b5e2:create' # Body Blocks (Complex)
+  - 'nestedentryfields.57c5a440-ef0b-49ba-a878-4c745502b5e2:save' # Body Blocks (Complex)
+  - 'nestedentryfields.57c5a440-ef0b-49ba-a878-4c745502b5e2:delete' # Body Blocks (Complex)
+  - 'nestedentryfields.c56e2987-4706-4bba-8e28-b082033c6c16:edit' # Body Blocks (Simple)
+  - 'nestedentryfields.c56e2987-4706-4bba-8e28-b082033c6c16:create' # Body Blocks (Simple)
+  - 'nestedentryfields.c56e2987-4706-4bba-8e28-b082033c6c16:save' # Body Blocks (Simple)
+  - 'nestedentryfields.c56e2987-4706-4bba-8e28-b082033c6c16:delete' # Body Blocks (Simple)
+  - 'volumes.bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98:edit' # Images
+  - 'volumes.bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98:create' # Images
+  - 'volumes.bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98:save' # Images
+  - 'volumes.bc0ecb7d-5ff4-4fcb-9cdf-699423db9d98:delete' # Images
