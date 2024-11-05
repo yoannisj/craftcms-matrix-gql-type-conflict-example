@@ -39,7 +39,7 @@ fieldLayouts:
             dateAdded: '2024-11-05T12:03:20+00:00'
             elementCondition: null
             fieldUid: 57c5a440-ef0b-49ba-a878-4c745502b5e2 # Body Blocks (Complex)
-            handle: null
+            handle: bodyBlocks
             includeInCards: false
             instructions: null
             label: null
